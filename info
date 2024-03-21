@@ -1,0 +1,17 @@
+What we build
+=> API
+==>Products
+===>GET
+===>Post [protected]
+
+==>Products/{id}
+===>GET
+===>PATCH [protected]
+===>DELETE [protected]
+
+|==>Orders
+    |=>GET [protected]
+    |=>POST [protected]
+|==>Orders/{id}
+    |=>GET [protected]
+    |=>DELETE [protected]
